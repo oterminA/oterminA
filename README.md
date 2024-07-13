@@ -1,7 +1,7 @@
 ![pexels-pixabay-270488](https://github.com/oterminA/oterminA/assets/146308518/af2ad474-de13-47f1-b5d0-9f3008e26d1e)  
 </h3>
 <p align="center">
-  <a href="https://github.com/oterminA"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+I+am+Carolina+✨;College+student+📚;Frontend+begginer+💻;Welcome+to+my+Github+page!!"></a>
+  <a href="https://github.com/oterminA"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi,+I'm+Carolina!+✨;College+student+📚;Frontend+begginer+💻;Welcome+to+my+Github+page!!"></a>
 </p>
 
 <hr>
