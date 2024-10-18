@@ -18,7 +18,7 @@
 
 • My name is Carolina Otermin! I'm from Río Negro, Argentina 🇦🇷  
 
-• Freshman student at Universidad Del Comahue - I'm studyding an Associate Degree in Web Development  
+• Freshmen student at Universidad Del Comahue - I'm studyding an Associate Degree in Web Development  
 
 • Working on my portfolio  
 
