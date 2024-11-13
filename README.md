@@ -1,7 +1,7 @@
 ![pexels-pixabay-270488](https://github.com/oterminA/oterminA/assets/146308518/af2ad474-de13-47f1-b5d0-9f3008e26d1e)  
 </h3>
 <p align="center">
-  <a href="https://github.com/oterminA"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi,+I'm+Carolina!+✨;College+student+📚;Frontend+begginer+💻;Welcome+to+my+Github+page!!"></a>
+  <a href="https://github.com/oterminA"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi,+I'm+Carolina!+;Welcome+to+my+Github+page!!"></a>
 </p>
 
 <hr>
@@ -16,11 +16,11 @@
 
 <h2>About me: </h2>  
 
-• My name is Carolina Otermin! I'm from Río Negro, Argentina 🇦🇷  
+• My name is Carolina Otermin! I'm Argentina 🇦🇷  
 
 • Freshmen student at Universidad Del Comahue - I'm studyding an Associate Degree in Web Development  
 
-• Working on my portfolio  
+• Working on my portfolio..
 
 • Currently learning the basics on frontend  (in a self taught way)  
 
