@@ -16,7 +16,7 @@
 
 <h2>About me: </h2>  
 
-• My name is Carolina Otermin! I'm Argentina 🇦🇷  
+• My name is Carolina Otermin! I'm from Argentina 🇦🇷  
 
 • Freshmen student at Universidad Del Comahue - I'm studyding an Associate Degree in Web Development  
 
