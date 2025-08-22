@@ -20,10 +20,6 @@
 
 • Freshmen student at Universidad Del Comahue - I'm studyding an Associate Degree in Web Development  
 
-• Profile on the works!
-
-
-
 <hr>  
 
 <h2>Languages and tools </h2>
