@@ -18,7 +18,7 @@
 
 • My name is Carolina Otermin! I'm from Argentina 🇦🇷  
 
-• Sophomore student at Universidad Del Comahue - I'm studyding an Associate Degree in Web Development  
+• Sophomore student at Universidad Del Comahue - I'm studying an Associate Degree in Web Development  
 
 <hr>  
 
