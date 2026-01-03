@@ -6,19 +6,11 @@
 
 <hr>
 
-<h1>
-  “Truth can only be found in one place: the code.”  
-  
-  ―Robert C. Martin, <i>Clean Code: A Handbook of Agile Software Craftsmanship</i> 
-</h1>
-
-<hr>
-
 <h2>About me: </h2>  
 
-• My name is Carolina Otermin! I'm from Argentina 🇦🇷  
+• My name is Carolina Otermin! I'm from Argentina.  
 
-• Sophomore student at Universidad Del Comahue - I'm studying an Associate Degree in Web Development 
+• Sophmore student at Universidad Del Comahue - I'm studying an Associate Degree in Web Development!! 
 
 •Please consider checking out my portfolio: https://otermina.github.io/portfolio-otermin/
 
