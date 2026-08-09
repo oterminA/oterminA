@@ -55,8 +55,5 @@
       <td>
       <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> 
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-    </td>
   </tr>
 </table>
