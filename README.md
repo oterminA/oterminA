@@ -40,20 +40,11 @@
     <td>
       <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> 
     </td>
-  </tr>
-</table>
-
-<h2>Currently learning:</h2>
-<table>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
-    </td>
-    <td>
+        <td>
       <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"> 
     </td>
-      <td>
-      <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> 
+        <td>
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
     </td>
   </tr>
 </table>
